@@ -18,7 +18,7 @@
 
 ## ⚡️ 프로젝트 정보
 
-- [디지털 하나로](https://hanaro.recruiter.co.kr/career/home) 2기 개발반 1차 프로젝트
+- [디지털 하나로](https://hanaro.recruiter.co.kr/career/home) 2기 개발반 2차 프로젝트
 
 <br/>
 
